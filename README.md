@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" height="200" src="./assets/basanta.png" style="border-radius: 50%;"/>
+    <img width="200" height="200" src="./assets/basanta.gif" style="border-radius: 50%;"/>
 </p>
 
 <p align="center">
