@@ -1,4 +1,4 @@
-<p align="center"><img width="200" height="200" src="./assets/basanta.png" /></p>
+<p align="center"><img width="200" height="200" src="./assets/basanta.png" style="max-width: 100%; border-radius: 50%"/></p>
 <p align="center"><a href="https://www.basantarai.com.np/">Website</a> • <a href="https://www.linkedin.com/in/iambasantarai/">LinkedIn</a> • <a href="https://twitter.com/iambasantarai">Twitter</a></p>
 <p align="center">
     <samp>
