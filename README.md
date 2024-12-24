@@ -10,6 +10,6 @@
 
 <p align="center">
     <samp>
-        Hi, I'm Basanta Rai. A software developer from <strong>Nepal</strong> with over a year of experience in software development, with a focus on <strong>web development</strong>. I work mostly with <strong>Node.js</strong>, with occasional use of <strong>React</strong>.
+        Hi, I'm Basanta Rai. A software developer from Nepal with nearly two years of experience, focusing on web development. I primarily work with Node.js, with occasional use of React.
     </samp>
 </p>
